@@ -1,4 +1,4 @@
-package com.sira.app.springbootrestapi;
+package com.sira.app.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
